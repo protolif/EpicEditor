@@ -1,4 +1,4 @@
 module EpicEditor
-  class ApplicationController < ActionController::Base
+  class ApplicationController
   end
 end
